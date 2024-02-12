@@ -41,3 +41,10 @@ You should keep your mods compatible with the "MineClone2" game to have the same
 Open this link and read the "Programmers" and "Artists" items in the "Contribute" category.
 
 https://www.minetest.net/get-involved/
+
+## Tools
+
+You can use these tools to improve your mods or help your modding workflow:
+
+- [modlib](https://github.com/appgurueu/modlib) - Multipurpose Minetest Modding Library
+- [controls](https://github.com/mt-mods/controls) - Utility library for control press/hold/release events
